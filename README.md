@@ -1,4 +1,4 @@
 # React + Vite
->[!Important
+>[!Important]
 
 https://proyect-guitar-sandy.vercel.app/
